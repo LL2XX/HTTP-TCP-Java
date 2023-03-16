@@ -1,2 +1,2 @@
-# HTTP-1.0-Java
-计网作业，Java实现HTTP服务器
+# HTTP-1.0&TCP
+计网作业，Java实现HTTP和TCP协议
